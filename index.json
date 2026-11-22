@@ -1,0 +1,11 @@
+{
+  "org": "rust-random",
+  "repo": "rngs",
+  "versions": [
+    {
+      "commit": "e8065a49fd64c55c0a5876fd1546a95f0eaaad5d",
+      "tag": "rand_xoshiro-0.8.0-rc.0",
+      "parsed_at": "2026-11-22T09:52:35.854410+00:00"
+    }
+  ]
+}
