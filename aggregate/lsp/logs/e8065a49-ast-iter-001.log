@@ -1,0 +1,7 @@
+[2026-11-22T09:46:15Z] === AST ITERATION 1 START | repo=rust-random/rngs sha=e8065a49 ===
+[2026-11-22T09:46:15Z] [iter=1] PHASE START: ast repo=rust-random/rngs sha=e8065a49
+[2026-11-22T09:46:15Z] [iter=1] Building AST aggregate chunks
+[2026-11-22T09:46:34Z] [iter=1] AST chunks built count=1 triples=175059
+[2026-11-22T09:46:34Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/e8065a49fd64c55c0a5876fd1546a95f0eaaad5d/.complete
+[2026-11-22T09:46:34Z] [iter=1] PHASE END: ast elapsed_s=20 elapsed_min=0.3
+[2026-11-22T09:46:34Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
